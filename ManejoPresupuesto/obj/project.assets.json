@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Cursos\\ASP.NET MVC\\PROYECTOS\\Manejo de Presupuestos\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
+      "projectUniqueName": "D:\\Cursos\\ASP.NET MVC\\PROYECTOS\\Manejo de Presupuestos\\msolis_manejo_presupuestos\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
       "projectName": "ManejoPresupuesto",
-      "projectPath": "D:\\Cursos\\ASP.NET MVC\\PROYECTOS\\Manejo de Presupuestos\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
+      "projectPath": "D:\\Cursos\\ASP.NET MVC\\PROYECTOS\\Manejo de Presupuestos\\msolis_manejo_presupuestos\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
       "packagesPath": "C:\\Users\\mai22\\.nuget\\packages\\",
-      "outputPath": "D:\\Cursos\\ASP.NET MVC\\PROYECTOS\\Manejo de Presupuestos\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\",
+      "outputPath": "D:\\Cursos\\ASP.NET MVC\\PROYECTOS\\Manejo de Presupuestos\\msolis_manejo_presupuestos\\ManejoPresupuesto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mai22\\AppData\\Roaming\\NuGet\\NuGet.Config",
