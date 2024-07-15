@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Cursos\ASP.NET MVC\PROYECTOS\Manejo de Presupuestos\msolis_manejo_presupuestos\ManejoPresupuesto
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Cursos/ASP.NET MVC/PROYECTOS/Manejo de Presupuestos/msolis_manejo_presupuestos/ManejoPresupuesto/Views/Cuentas/Borrar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnRhc1xCb3JyYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Cursos/ASP.NET MVC/PROYECTOS/Manejo de Presupuestos/msolis_manejo_presupuestos/ManejoPresupuesto/Views/Cuentas/Crear.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnRhc1xDcmVhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
